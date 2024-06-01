@@ -20,39 +20,39 @@ export const navData = [
   import { FaFacebookF, FaInstagram, FaTwitter, FaTiktok, FaTelegramPlane } from 'react-icons/fa';
   export const socialLinks = [
     {
-      path: "/facebook",
+      path: "/",
       title: "Facebook",
       icon: FaFacebookF,
     },
     {
-      path: "/instagram",
+      path: "/",
       title: "Instagram",
       icon: FaInstagram,
     },
     {
-      path: "/Twitter",
+      path: "/",
       title: "Twitter",
       icon: FaTwitter,
     },
     {
-      path: "/Tiktok",
+      path: "/",
       title: "Tiktok",
       icon: FaTiktok,
     },
     {
-      path: "/Telegram",
+      path: "/",
       title: "Telegram",
       icon: FaTelegramPlane,
     },
   ];
   export const contacts = [
     {
-      contact: "+251901010101",
+      contact: "+251920681717",
     },
     {
-      contact: "+251901010101",
+      contact: "info@inayaoverseas.com",
     },
     {
-      contact: "falconfitness@gmail.com",
+      contact: "www.inayaoverseas.com",
     },
   ];
