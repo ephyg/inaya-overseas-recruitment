@@ -15,7 +15,7 @@ function NavBar() {
             {/* <img src={Logo} className="h-20 md:h-16" alt="" /> */}
             <p
               className="text-xl font-bold font-mont ml-2"
-              onClick={() => Navigate("/")}
+              onClick={() => navigate("/")}
             >
               IOR
             </p>
