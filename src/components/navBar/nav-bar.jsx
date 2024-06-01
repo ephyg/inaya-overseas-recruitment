@@ -17,7 +17,7 @@ function NavBar() {
               className="text-xl font-bold font-mont ml-2"
               onClick={() => navigate("/")}
             >
-              IOR
+              LOGO
             </p>
           </Link>
         </div>
